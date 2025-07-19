@@ -1,0 +1,14 @@
+Text Classification using Neural Network
+1. A
+2. A
+3. B
+4. C
+5. A
+6. A
+7. B
+8. B
+9. A
+10. C
+11. D
+12. A
+13. B
